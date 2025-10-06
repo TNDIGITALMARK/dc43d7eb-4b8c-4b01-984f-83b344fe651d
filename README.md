@@ -1,4 +1,4 @@
-# عقار الأردن - Arabic Real Estate Marketplace
+# سوق عقارات ليبيا - Arabic Real Estate Marketplace
 
 A comprehensive Arabic-language real estate marketplace application for the Libyan market, built with Next.js 15, TypeScript, and Tailwind CSS.
 
@@ -235,4 +235,4 @@ The application uses `export const dynamic = 'force-dynamic'` for pages requirin
 
 ---
 
-**عقار الأردن** - منصتك الموثوقة للعقارات الليبية 🏠🇱🇾
+**سوق عقارات ليبيا** - منصتك الموثوقة للعقارات الليبية 🏠🇱🇾

@@ -99,7 +99,7 @@ export function HeroSection() {
                     <div className="h-full bg-gradient-to-b from-gray-50 to-white rounded-xl p-3">
                       {/* Header */}
                       <div className="h-8 bg-blue-600 rounded-lg mb-2 flex items-center justify-center">
-                        <div className="text-xs text-white font-semibold">عقار الأردن</div>
+                        <div className="text-xs text-white font-semibold">سوق عقارات ليبيا</div>
                       </div>
 
                       {/* Featured Property */}
