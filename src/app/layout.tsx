@@ -7,6 +7,8 @@ import { Toaster } from "@/components/ui/toaster";
 import { Toaster as Sonner } from "@/components/ui/sonner";
 import { TooltipProvider } from "@/components/ui/tooltip";
 
+import Script from "next/script";
+import { PhoenixTracker } from "@/components/PhoenixTracker";
 const inter = Inter({
   variable: "--font-inter",
   subsets: ["latin"],
@@ -25,6 +27,7 @@ export default function RootLayout({
   return (
     <html lang="ar" dir="rtl" suppressHydrationWarning>
       <head>
+        <link rel="stylesheet" href="/phoenix-tracking.css" />
         <link
           href="https://fonts.googleapis.com/css2?family=Noto+Sans+Arabic:wght@400;500;600;700&display=swap"
           rel="stylesheet"
@@ -46,7 +49,9 @@ export default function RootLayout({
               <Sonner />
             </TooltipProvider>
           </ThemeProvider>
-        </QueryProvider>
+        </QueryProvider>        <Script src="/phoenix-tracking.js" strategy="afterInteractive" />
+        <PhoenixTracker />
+
       </body>
     </html>
   );
