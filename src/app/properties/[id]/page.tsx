@@ -53,7 +53,7 @@ const mockProperty = {
   agent: {
     name: "أحمد محمد الليبي",
     phone: "+218 91 234 5678",
-    email: "ahmed@aqar-jordan.ly",
+    email: "ahmed@aqar-libya.ly",
     image: "/public/currentImgContext/ai-generated-preview.png",
     experience: "8 سنوات خبرة",
     properties: 45,

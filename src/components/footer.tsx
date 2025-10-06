@@ -28,7 +28,7 @@ export function Footer() {
                 <span className="text-white font-bold text-xl">ع</span>
               </div>
               <div>
-                <h3 className="text-xl font-bold">عقار الأردن</h3>
+                <h3 className="text-xl font-bold">عقار ليبيا</h3>
                 <p className="text-sm text-gray-400">منصة عقارية موثوقة</p>
               </div>
             </div>
@@ -112,7 +112,7 @@ export function Footer() {
               </div>
               <div className="flex items-center space-x-2 rtl:space-x-reverse text-gray-300">
                 <Mail className="w-4 h-4 flex-shrink-0" />
-                <span className="text-sm">info@aqar-jordan.ly</span>
+                <span className="text-sm">info@aqar-libya.ly</span>
               </div>
               <div className="flex items-start space-x-2 rtl:space-x-reverse text-gray-300">
                 <MapPin className="w-4 h-4 flex-shrink-0 mt-0.5" />
@@ -120,7 +120,7 @@ export function Footer() {
               </div>
               <div className="flex items-center space-x-2 rtl:space-x-reverse text-gray-300">
                 <Globe className="w-4 h-4 flex-shrink-0" />
-                <span className="text-sm">www.aqar-jordan.ly</span>
+                <span className="text-sm">www.aqar-libya.ly</span>
               </div>
             </div>
 
@@ -147,7 +147,7 @@ export function Footer() {
         {/* Bottom Section */}
         <div className="flex flex-col md:flex-row justify-between items-center space-y-4 md:space-y-0">
           <div className="text-sm text-gray-400 text-center md:text-right">
-            © 2024 عقار الأردن. جميع الحقوق محفوظة.
+            © 2024 عقار ليبيا. جميع الحقوق محفوظة.
           </div>
 
           <div className="flex items-center space-x-6 rtl:space-x-reverse text-sm">
