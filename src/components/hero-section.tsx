@@ -16,8 +16,7 @@ export function HeroSection() {
           {/* Text Content */}
           <div className="text-center lg:text-right text-white space-y-6">
             <h1 className="text-4xl md:text-5xl font-bold leading-tight">
-              <span className="block">عثر على السكن المثالي</span>
-              <span className="block">الذي يناسب كل شيء فيك</span>
+              <span className="block">منصة الحلول الشاملة في مجال العقارات الليبية</span>
             </h1>
 
             <p className="text-xl text-blue-100 max-w-2xl">
